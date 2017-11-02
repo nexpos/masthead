@@ -1,0 +1,39 @@
+#wrapper {
+	background: black;
+	height: 100px;
+	width: 1000px;
+	vertical-align: middle;
+}
+#logo {
+	height: 100px;
+	display: inline-block;
+}
+#search {
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+}
+.menu_item {
+	color: white;
+	font-weight: normal;
+	font-family: "Impact";
+	display: inline-block;
+	margin-left: 15px;
+	vertical-align: middle;
+	height: 100%;
+}
+#search_button {
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 76px;
+}
+.right_float {
+	float: right;
+	margin-top: 15px;
+	display: inline-block;
+}
+.list_item {
+	margin-top: 10px;
+	margin-right: 20px;
+}
